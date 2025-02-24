@@ -17,7 +17,7 @@ I'm a **Software Developer** passionate about crafting **scalable web applicatio
 ⚡ Reduced **page load time by 15%** through **backend optimizations**  
 📊 Created **data-driven dashboards** using **Chart.js**, enhancing decision-making by 50%  
 🔍 Implemented **search & filter functionality**, reducing search times by **10%**  
-🔐 Seamlessly integrated **Google Sign-Up authentication** & **reCAPTCHA** for secure user access
+🔐 Seamlessly integrated **Google Sign-Up authentication** & **reCAPTCHA** for secure user access<br>
 ⚙️ Upgraded build tools from **Maven to Gradle** for better performance and flexibility
 
 🌱 Currently Exploring:
