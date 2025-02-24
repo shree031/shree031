@@ -1,5 +1,35 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a Software Developer passionate about building scalable web applications and crafting seamless user experiences. I specialize in Angular, Ionic, Java, Spring Boot, and PostgreSQL, with a keen interest in performance optimization and clean code.<br><br>💡 What I do:<br><br>Develop interactive web and mobile applications with Angular & Ionic<br>Build robust backend services using Spring Boot & PostgreSQL<br>Optimize APIs and databases for efficiency and scalability<br>Implement authentication, authorization, and third-party integrations<br>🚀 Open to: Exciting opportunities in full-stack web development
+
+## Hi there! 👋  
+
+I'm a **Software Developer** passionate about crafting **scalable web applications** and delivering seamless user experiences. I specialize in **Angular, Ionic, Java, Spring Boot, and PostgreSQL**, with a strong focus on performance optimization, best coding practices, and clean architecture.  
+
+### 🚀 What I Do:  
+✅ Develop interactive **web & mobile applications** with **Angular & Ionic**  
+✅ Build robust **backend services** using **Spring Boot & PostgreSQL**  
+✅ Optimize **APIs & databases** for performance and scalability  
+✅ Implement **authentication, authorization**, and third-party integrations  
+✅ Manage **state, reusable components, and advanced routing**  
+✅ Work with **CI/CD pipelines, Git, Bitbucket, and Agile methodologies**  
+
+### 🏆 What I’ve Achieved:  
+🚀 Improved **code efficiency by 20%** by developing **reusable common components**  
+⚡ Reduced **page load time by 15%** through **backend optimizations**  
+📊 Created **data-driven dashboards** using **Chart.js**, enhancing decision-making by 50%  
+🔍 Implemented **search & filter functionality**, reducing search times by **10%**  
+🔐 Seamlessly integrated **Google Sign-Up authentication** & **reCAPTCHA** for secure user access
+⚙️ Upgraded build tools from **Maven to Gradle** for better performance and flexibility
+
+🌱 Currently Exploring:
+AWS services & cloud technologies to expand my backend and DevOps expertise
+New frameworks & tech to stay ahead in the evolving development landscape
+
+
+### 🎭 Fun Facts About Me:  
+😄 I once directed a **school skit** and was a **house captain** 🏆  
+💃 Danced during my **college annual day** (Yes, I’ve got the moves! 💃🔥)  
+🕵️‍♀️ Participated in a **treasure hunt** (still waiting for my pirate ship ⛵)  
+
 
 
 ## 🌐 Socials:
@@ -12,5 +42,4 @@ Hi there! 👋<br>I'm a Software Developer passionate about building scalable we
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shree031&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shree031&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=shree031&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shree031&color=blue)](https://visitcount.itsvg.in)
