@@ -1,4 +1,5 @@
 ## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=shree031&color=blue)
 
 👋 Hi there! I'm a passionate Software Developer with two years of experience at Xcaliber Infotech, where I specialize in building robust and efficient web applications. I'm enthusiastic about crafting seamless user experiences and optimizing backend processes to enhance performance and scalability.
 
