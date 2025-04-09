@@ -27,7 +27,6 @@ New frameworks & tech to stay ahead in the evolving development landscape
 
 ### 🎭 Fun Facts About Me:  
 😄 I once directed a **school skit** and was a **house captain** 🏆  
-💃 Danced during my **college annual day** (Yes, I’ve got the moves! 💃🔥)  
 🕵️‍♀️ Participated in a **treasure hunt** (still waiting for my pirate ship ⛵)  
 
 
